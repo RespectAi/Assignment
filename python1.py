@@ -22,3 +22,4 @@ else:
 
 # Display the result
 print(f"{num1} {operator} {num2} = {result}")
+5
